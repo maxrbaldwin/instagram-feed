@@ -1,0 +1,20 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
+}
+body {
+	background: #000;
+}
+#insta-wrapper {
+	margin: 0px auto;
+}
+.insta-image-con {
+	display: inline;
+}
+.insta-image-img {
+	cursor: pointer;
+}
+#insta-modal {
+	display: none;
+}
